@@ -18,10 +18,6 @@ body {
     background-color: lightgreen;
 }
 
-footer {
-    background-color: white;
-}
-
 /* home image */
 
 #home-image {
@@ -53,7 +49,7 @@ h1, h2 {
 /* navigation links*/
 
 #menu {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 4px;
 }
 
@@ -74,4 +70,27 @@ h1, h2 {
 
 .active {
     border-bottom: 1px solid black;
+}
+
+/* footer */
+
+footer {
+    background-color: white;
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
+
 }
