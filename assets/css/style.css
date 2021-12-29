@@ -57,7 +57,7 @@ h3 {
 h4 {
     text-align: left;
     font-family: Lora, sans-serif;
-    color: black; 
+    color: black;
 }
 
 #logo {
@@ -232,6 +232,7 @@ li {
     padding: 10px;
     border: 2px solid black;
     margin: 0 auto;
+    color: black;
 }
 
 /* contact us and sign up form */
