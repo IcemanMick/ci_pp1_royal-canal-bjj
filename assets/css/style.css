@@ -16,6 +16,7 @@ header {
 body {
     font-family: Lora, sans-serif;
     font-weight: 300;
+    background-color: rgba(0, 128, 0, 0.5);
 }
 
 /* home image */
@@ -36,6 +37,10 @@ body {
 
 #image-body {
     background-color: rgba(0, 128, 0, 0.5);
+}
+
+div {
+    color: rgba(0, 128, 0, 0.5);
 }
 
 /* headings and logo*/
@@ -85,12 +90,12 @@ h1, h2 {
 
 footer {
     background-color: white;
-    height: 150px;
     border-top: 1px solid black;
 }
 
 .social-networks {
     text-align: center;
+    margin-top: 1px;
 }
 
 .social-networks > li {
@@ -100,7 +105,7 @@ footer {
 .social-networks i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 1%;
     color: black;
 }
 
@@ -112,7 +117,7 @@ li {
 }
 
 #facilities {
-    background-color: rgba(0, 128, 0, 0.5);
+    background-color: white;
     width: 50%;
     padding: 10px;
     border: 2px solid black;
@@ -127,7 +132,7 @@ li {
 /* benefits */
 
 #benefits {
-    background-color: rgba(0, 128, 0, 0.5);
+    background-color: white;
     width: 50%;
     padding: 10px;
     border: 2px solid black;
@@ -142,7 +147,7 @@ li {
 /* sign up prompt link at end of webpage */
 
 #sign-up {
-    background-color: rgba(255, 255, 0, 0.5);
+    background-color: yellow;
     width: 30%;
     padding: 10px;
     border: 2px solid black;
@@ -150,5 +155,4 @@ li {
     text-align: center;
     text-transform: uppercase;
     color: blue;
-    text-decoration: none;
 }
