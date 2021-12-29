@@ -54,6 +54,12 @@ h3 {
     color: black;
 }
 
+h4 {
+    text-align: left;
+    font-family: Lora, sans-serif;
+    color: black; 
+}
+
 #logo {
     font-size: 200%;
     text-decoration: none;
@@ -259,12 +265,15 @@ li {
     border-color: rgba(0, 128, 0, 0.5);
 }
 
-#fitness, #selfdefence, #newhobby, #other {
+#fitness,
+#selfdefence,
+#newhobby,
+#other {
     margin-left: 10px;
-} 
+}
 
 .join-button {
- margin: 0 auto;
+    margin: 0 auto;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
@@ -276,6 +285,7 @@ li {
     font-family: Lora, sans-serif;
     font-size: 100%;
 }
+
 .join-button:hover {
     background-color: white;
     color: blue;
@@ -287,4 +297,5 @@ li {
     padding: 10px;
     border: 2px solid black;
     margin: 0 auto;
+    color: black;
 }
