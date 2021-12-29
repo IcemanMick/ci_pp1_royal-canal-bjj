@@ -45,9 +45,10 @@ div {
 
 /* headings and logo*/
 
-h1, h2 {
+h1, h2, h3 {
  text-align: center;
- font-family: Lora, sans-serif; 
+ font-family: Lora, sans-serif;
+ color: black; 
 }
 
 #logo {
@@ -156,3 +157,25 @@ li {
     text-transform: uppercase;
     color: blue;
 }
+
+/* about us section*/
+
+#about-us {
+    background-color: white;
+    width: 50%;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+#about-us-image {
+    max-height: 80%;
+    max-width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* coach male */
+
+/* coach female */
