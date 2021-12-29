@@ -252,14 +252,15 @@ li {
 .signup-form {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    position: relative;
+    margin: 0 auto;
+    width: 90%;
 }
 
 .text-input {
     color: #fafafa;
-    width: 90%;
     height: 25px;
-    margin: 5px 0 20px 0;
+    width: 100%;
+    margin: 20px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 1px;
 }
