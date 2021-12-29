@@ -178,4 +178,28 @@ li {
 
 /* coach male */
 
+#male-image {
+    max-height: 100%;
+    width: auto;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.coach {
+    background-color: white;
+    width: 50%;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
 /* coach female */
+
+#female-image {
+    max-height: 100%;
+    width: auto;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
