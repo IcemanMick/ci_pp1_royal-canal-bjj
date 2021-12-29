@@ -34,7 +34,7 @@ body {
 }
 
 #image-body {
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0.5);
 }
 
 /* headings and logo*/
@@ -100,5 +100,32 @@ footer {
     margin: 1%;
     padding: 5%;
     color: black;
+}
 
+/* facilities */
+
+li {
+    list-style: none;
+    margin-top: 1em;
+}
+
+#facilities {
+    background-color: rgba(0, 128, 0, 0.5);
+    width: 50%;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 0 auto;    
+}
+
+#facilities li {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    
+}
+
+/* benefits */
+
+#benefits {
+    background-color: rgba(0, 128, 0, 0.5);
 }
