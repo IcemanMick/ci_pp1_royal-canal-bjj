@@ -136,3 +136,16 @@ li {
     text-align: center;
     color: black;
 }
+
+/* sign up prompt link at end of webpage */
+
+#sign-up {
+    background-color: rgba(255, 255, 0, 0.5);
+    width: 30%;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+}
