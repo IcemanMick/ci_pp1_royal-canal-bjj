@@ -35,3 +35,16 @@ footer {
     margin-right: auto;
     width: 50%;
 }
+
+/* headings and logo*/
+
+h1, h2 {
+ text-align: center;
+ font-family: Lora, sans-serif; 
+}
+
+#logo {
+    font-size: 200%;
+    text-decoration: none;
+    color: black;
+}
