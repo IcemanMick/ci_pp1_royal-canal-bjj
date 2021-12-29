@@ -9,6 +9,7 @@
 header {
     background-color: white;
     padding-bottom: 30px;
+    border-bottom: 1px solid black;
    
 }
 
@@ -85,6 +86,7 @@ h1, h2 {
 footer {
     background-color: white;
     height: 150px;
+    border-top: 1px solid black;
 }
 
 .social-networks {
@@ -148,4 +150,5 @@ li {
     text-align: center;
     text-transform: uppercase;
     color: blue;
+    text-decoration: none;
 }
