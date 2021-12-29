@@ -161,6 +161,11 @@ li {
     color: blue;
 }
 
+#sign-up:hover {
+    background-color: white;
+    color: blue;
+}
+
 /* about us section*/
 
 #about-us {
@@ -236,7 +241,6 @@ li {
 }
 
 .signup-form {
-    margin: 50px 10% 50px 10%;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     position: relative;
@@ -253,8 +257,11 @@ li {
 
 .text-input:hover {
     border-color: rgba(0, 128, 0, 0.5);
-
 }
+
+#fitness, #selfdefence, #newhobby, #other {
+    margin-left: 10px;
+} 
 
 .join-button {
  margin: 0 auto;
@@ -268,4 +275,8 @@ li {
     text-transform: uppercase;
     font-family: Lora, sans-serif;
     font-size: 100%;
+}
+.join-button:hover {
+    background-color: white;
+    color: blue;
 }
