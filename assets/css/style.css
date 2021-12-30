@@ -41,7 +41,7 @@ body {
     width: 50%;
 }
 
-/* headings and logo*/
+/* headings and logo */
 
 /* custom code */
 h1,
@@ -67,7 +67,7 @@ h4 {
     margin-top: 20px;
 }
 
-/* navigation links*/
+/* navigation links */
 
 /* credit code structure to love running project with code institute. Custom code values */
 #menu {
@@ -106,7 +106,7 @@ h4 {
 
 /* footer */
 
-/* custom code*/
+/* custom code */
 footer {
     background-color: white;
     border-top: 1px solid black;
@@ -172,7 +172,7 @@ li {
 /* sign up prompt link at end of webpage */
 
 
-/* custom code*/
+/* custom code */
 #sign-up {
     background-color: rgba(255, 255, 0, 0.5);
     width: 30%;
@@ -184,13 +184,13 @@ li {
     color: blue;
 }
 
-/* custom code*/
+/* custom code */
 #sign-up:hover {
     background-color: white;
     color: blue;
 }
 
-/* about us section*/
+/* about us section */
 
 /* custom code. most used from #facilities above*/
 #about-us {
@@ -202,7 +202,7 @@ li {
     color: black;
 }
 
-/* custom code. same as #home-image above*/
+/* custom code. same as #home-image above */
 #about-us-image {
     max-height: 80%;
     max-width: 80%;
@@ -221,7 +221,8 @@ li {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-/* custom code. same as #about-us above*/
+
+/* custom code. same as #about-us above */
 .coach {
     background-color: white;
     width: 50%;
@@ -230,7 +231,7 @@ li {
     margin: 0 auto;
     color: black;
 }
-/* custom code. same as #male-image above*/
+/* custom code. same as #male-image above */
 #female-image {
     max-height: 100%;
     width: auto;
@@ -241,12 +242,12 @@ li {
 
 /* classes */
 
-/* custom code*/
+/* custom code */
 #classes-image {
     padding-top: 20px;
 }
 
-/* custom code. same as #about-us above*/
+/* custom code. same as #about-us above */
 .info {
     background-color: white;
     width: 50%;
@@ -293,7 +294,7 @@ li {
     border-color: rgba(0, 128, 0, 0.5);
 }
 
-/* custom code*/
+/* custom code */
 #fitness,
 #selfdefence,
 #newhobby,
@@ -301,7 +302,7 @@ li {
     margin-left: 10px;
 }
 
-/* credit code structure to love running project with code institute. some custom code and values*/
+/* credit code structure to love running project with code institute. some custom code and values */
 .join-button {
     margin: 0 auto;
     border-radius: 2px;
@@ -316,13 +317,13 @@ li {
     font-size: 100%;
 }
 
-/*credit code structure to love running project with code institute*/
+/* credit code structure to love running project with code institute */
 .join-button:hover {
     background-color: white;
     color: blue;
 }
 
-/* custom code. same as #about-us above*/
+/* custom code. same as #about-us above */
 #contact-info {
     background-color: white;
     width: 50%;
@@ -336,7 +337,7 @@ li {
 
 /* for smaller tablets up to 550px wide and greater */
 
-/* custom code*/
+/* custom code */
 @media screen and (min-width: 550px) {
     #logo {
         float: left;
@@ -347,7 +348,7 @@ li {
         margin-bottom: auto;
     }
 
-    /*custom code*/
+    /* custom code */
     #menu {
         clear: both;
     }
