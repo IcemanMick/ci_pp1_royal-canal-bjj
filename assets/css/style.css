@@ -206,7 +206,7 @@ li {
     color: black;
 }
 
-/* custome code. same as #home-image above*/
+/* custom code. same as #home-image above*/
 #about-us-image {
     max-height: 80%;
     max-width: 80%;
@@ -217,6 +217,7 @@ li {
 
 /* coaches */
 
+/*custom code*/ 
 #male-image {
     max-height: 100%;
     width: auto;
@@ -224,7 +225,7 @@ li {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+/* custom code. same as #about-us above*/
 .coach {
     background-color: white;
     width: 50%;
@@ -233,7 +234,7 @@ li {
     margin: 0 auto;
     color: black;
 }
-
+/* custom code. same as #male-image above*/
 #female-image {
     max-height: 100%;
     width: auto;
@@ -244,10 +245,12 @@ li {
 
 /* classes */
 
+/* custom code*/
 #classes-image {
     padding-top: 20px;
 }
 
+/* custom code. same as #about-us above*/
 .info {
     background-color: white;
     width: 50%;
@@ -259,6 +262,7 @@ li {
 
 /* contact us and sign up form */
 
+/* credit code structure to love running project with code institute */
 .form-section {
     
     height: 400px;
@@ -270,6 +274,7 @@ li {
 
 }
 
+/* credit code structure to love running project with code institute */
 .signup-form {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
@@ -277,6 +282,7 @@ li {
     width: 90%;
 }
 
+/* credit code structure to love running project with code institute */
 .text-input {
     color: #fafafa;
     height: 25px;
@@ -286,10 +292,12 @@ li {
     border-radius: 1px;
 }
 
+/* credit code structure to love running project with code institute */
 .text-input:hover {
     border-color: rgba(0, 128, 0, 0.5);
 }
 
+/* custom code*/
 #fitness,
 #selfdefence,
 #newhobby,
@@ -297,6 +305,7 @@ li {
     margin-left: 10px;
 }
 
+/* credit code structure to love running project with code institute. some custom code and values*/
 .join-button {
     margin: 0 auto;
     border-radius: 2px;
@@ -311,11 +320,13 @@ li {
     font-size: 100%;
 }
 
+/*credit code structure to love running project with code institute*/
 .join-button:hover {
     background-color: white;
     color: blue;
 }
 
+/* custom code. same as #about-us above*/
 #contact-info {
     background-color: white;
     width: 50%;
@@ -329,6 +340,7 @@ li {
 
 /* for smaller tablets up to 550px wide and greater */
 
+/* custom code*/
 @media screen and (min-width: 550px) {
     #logo {
         float: left;
@@ -339,6 +351,7 @@ li {
         margin-bottom: auto;
     }
 
+    /*custom code*/
     #menu {
         clear: both;
     }
