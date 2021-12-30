@@ -175,6 +175,8 @@ li {
 
 /* sign up prompt link at end of webpage */
 
+
+/* custom code*/
 #sign-up {
     background-color: rgba(255, 255, 0, 0.5);
     width: 30%;
@@ -186,6 +188,7 @@ li {
     color: blue;
 }
 
+/* custom code*/
 #sign-up:hover {
     background-color: white;
     color: blue;
@@ -193,6 +196,7 @@ li {
 
 /* about us section*/
 
+/* custom code. most used from #facilities above*/
 #about-us {
     background-color: white;
     width: 50%;
@@ -202,6 +206,7 @@ li {
     color: black;
 }
 
+/* custome code. same as #home-image above*/
 #about-us-image {
     max-height: 80%;
     max-width: 80%;
