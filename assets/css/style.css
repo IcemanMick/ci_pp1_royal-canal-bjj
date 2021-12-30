@@ -2,20 +2,20 @@
 
 /* mobile first build */
 
-/*code credit to love running project with code institute*/
+/* code credit to love running project with code institute */
 * {
     margin: 0;
     border: 0;
     padding: 0;
 }
 
-/*code credit to love running project with code institute*/
+/* code credit to love running project with code institute */
 header {
     background-color: white;
     padding-bottom: 30px;
     border-bottom: 1px solid black;
 }
-/*code credit to love running project with code institute. Custom font choice and background color*/
+/* code credit structure to love running project with code institute. Custom font choice and background color */
 body {
     font-family: Lora, sans-serif;
     font-weight: 300;
@@ -24,6 +24,7 @@ body {
 
 /* home image */
 
+/* custom code */
 #home-image {
     max-height: 80%;
     max-width: 80%;
@@ -32,7 +33,7 @@ body {
     padding-bottom: 20px;
 }
 
-/*code credit from w3schools.com "how to center images with CSS"*/
+/* code credit from w3schools.com "how to center images with CSS" */
 .center {
     display: block;
     margin-left: auto;
@@ -46,6 +47,7 @@ body {
 
 /* headings and logo*/
 
+/* custom code */
 h1,
 h2,
 h3 {
@@ -54,12 +56,14 @@ h3 {
     color: black;
 }
 
+/* custom code*/
 h4 {
     text-align: left;
     font-family: Lora, sans-serif;
     color: black;
 }
 
+/* credit code structure to love running project with code institute. Custom code values */
 #logo {
     font-size: 200%;
     text-decoration: none;
@@ -67,55 +71,62 @@ h4 {
     margin-top: 20px;
 }
 
-
-
 /* navigation links*/
 
+/* credit code structure to love running project with code institute. Custom code values */
 #menu {
     font-size: 90%;
     letter-spacing: 1px;
 
 }
 
+/* credit code structure to love running project with code institute. Custom code values */
 #menu li {
     list-style-type: none;
     margin-left: 20px;
     margin-right: 20px;
 }
 
+/* credit code structure to love running project with code institute */
 #menu>li {
     display: inline;
 }
 
+/* credit code structure to love running project with code institute */
 #menu a {
     text-decoration: none;
     color: black;
 }
 
+/* credit code structure to love running project with code institute */
 #menu a:hover {
     border-bottom: 1px solid black;
 }
 
+/* credit code structure to love running project with code institute */
 .active {
     border-bottom: 1px solid black;
 }
 
 /* footer */
 
+/* custom code*/
 footer {
     background-color: white;
     border-top: 1px solid black;
 }
 
+/* credit code structure to love running project with code institute and custom code */
 .social-networks {
     text-align: center;
     margin-top: 1px;
 }
-
+/* credit code to love running project with code institute */
 .social-networks>li {
     display: inline;
 }
 
+/* credit code to love running project with code institute */
 .social-networks i {
     font-size: 160%;
     margin: 1%;
@@ -125,11 +136,13 @@ footer {
 
 /* facilities */
 
+/* custom code */
 li {
     list-style: none;
     margin-top: 1em;
 }
 
+/* custom code */
 #facilities {
     background-color: white;
     width: 50%;
@@ -138,6 +151,7 @@ li {
     margin: 0 auto;
 }
 
+/* custom code */
 #facilities li {
     text-align: center;
     color: black;
@@ -145,6 +159,7 @@ li {
 
 /* benefits */
 
+/* custom code. same as #facilities code above */
 #benefits {
     background-color: white;
     width: 50%;
@@ -152,7 +167,7 @@ li {
     border: 2px solid black;
     margin: 0 auto;
 }
-
+/* custom code. same as #facilities li above */
 #benefits li {
     text-align: center;
     color: black;
