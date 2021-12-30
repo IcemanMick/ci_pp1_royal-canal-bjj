@@ -20,6 +20,8 @@ body {
     background-color: rgba(0, 128, 0, 0.5);
 }
 
+/* above "*", "header", and "body" code credit from Love Running */
+
 /* home image */
 
 #home-image {
@@ -36,6 +38,8 @@ body {
     margin-right: auto;
     width: 50%;
 }
+
+/* ".center" code credit from w3schools.com "how to center images with CSS */
 
 #image-body {
     background-color: rgba(0, 128, 0, 0.5);
@@ -71,7 +75,7 @@ h4 {
 #menu {
     font-size: 90%;
     letter-spacing: 1px;
-    
+
 }
 
 #menu li {
@@ -80,7 +84,7 @@ h4 {
     margin-right: 20px;
 }
 
-#menu > li {
+#menu>li {
     display: inline;
 }
 
@@ -192,7 +196,7 @@ li {
     padding-bottom: 20px;
 }
 
-/* coach male */
+/* coaches */
 
 #male-image {
     max-height: 100%;
@@ -210,8 +214,6 @@ li {
     margin: 0 auto;
     color: black;
 }
-
-/* coach female */
 
 #female-image {
     max-height: 100%;
@@ -304,5 +306,21 @@ li {
     color: black;
 }
 
+/* media queries */
 
+/* for smaller tablets up to 550px wide and greater */
 
+@media screen and (min-width: 550px) {
+    #logo {
+        float: left;
+        margin-bottom: 100px;
+        margin-top: 10px;
+        font-size: 200%;
+        clear: left;
+        margin-bottom: auto;
+    }
+
+    #menu {
+        clear: both;
+    }
+}
