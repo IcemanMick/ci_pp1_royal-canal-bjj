@@ -112,10 +112,9 @@ The Home Page, About Us Page, and Classes Page all feature a "Sign Up Today!!" b
 
 Wireframes were created using the programme Balsamiq.
 
-<details><summary>Home Mobile</summary><img src="./docs/wireframes/008_mobile_home.png"></details>
-<details><summary>Home Tablet</summary><img src="./docs/wireframes/012_tablet_home.png"></details>
-<details><summary>Home Desktop</summary><img src="./docs/wireframes/016_desktop_home.png"></details>
-<details><summary>About Us Mobile</summary><img src="./docs/wireframes/009_mobile_about_us.png"></details>
+<details><summary>Home</summary><img src="./docs/wireframes/008_mobile_home.png"><img src="./docs/wireframes/012_tablet_home.png"><img src="./docs/wireframes/016_desktop_home.png"></details>
+<details><summary>About Us</summary><img src="./docs/wireframes/009_mobile_about_us.png"><img src="./docs/wireframes/013_tablet_about_us.png"><img src="./docs/wireframes/017_desktop_about.png"></details>
+
 
 
 
