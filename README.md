@@ -145,4 +145,9 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - A black line appears under the wording of whichever page the user is currently on.
 <img src="./docs/features/001_nav_menu.JPG">
 
+### Facilities
 
+- A list of the gyms facilities are present on the Home page.
+- Icons were added from [Font Awesome](https://fontawesome.com/sessions/sign-in?next=%2Fkits%2F5a97decf8e%2Fuse) website to make it more user friendly.
+- Opportunity used on the home page for news of a "SHOP - COMING SOON!!!". Used as a selling point to show the entrepreneurship of the site owners and to gain the interest of site visitors. Shop will sell BJJ related equipment and apparel.
+<img src="./docs/features/002_facilities.JPG">
