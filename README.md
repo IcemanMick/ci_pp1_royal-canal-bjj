@@ -18,6 +18,21 @@
     3. [Structure](#structure)
     4. [Wireframes](#wireframes)
     5. [Font](#font)
+5. [Features](#features)
+    1. [Navigation Menu](#navigation-menu)
+    2. [Facilities](#facilities)
+    3. [Benefits](#benefits)
+    4. [Sign Up Button](#sign-up-button)
+    5. [About Us](#about-us)
+    6. [Coaches](#coaches)
+    7. [Timetable](#timetable)
+    8. [Class and Pricing Information](#class-and-pricing-information)
+    9. [Form](#form)
+    10. [Contact and Public Transport Information](#contact-and-public-transport-information)
+    11. [Map](#map)
+    12. [Social Media](#social-media)
+
+
 
 
 
