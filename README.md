@@ -214,4 +214,12 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 
 ### Map
 
+-Interactive [Google Maps](https://www.google.com/maps/place/Pelletstown+Ave,+Ashtown,+Dublin/@53.377062,-6.321312,16z/data=!4m5!3m4!1s0x48670d97922217b1:0x5fb8d7b1313725!8m2!3d53.3766845!4d-6.3184163?hl=en) set to the Royal Canal Park area.
+<img src="./docs/features/011_map.JPG">
+
 ### Social Media
+
+- Social Media links are present on all page footers.
+- As Royal Canal BJJ is a fictious club, all links bring user to the external home page sites.
+- Links are to Instagram, Facebook, Youtube, and Twitter.
+<img src="./docs/features/012_social_media.JPG">
