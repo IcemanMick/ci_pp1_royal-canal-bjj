@@ -388,3 +388,10 @@ Sufficient stock images for Brazilian Jiu Jitsu were limited on [Pexels](https:/
 - Credit to [Font Awesome](https://fontawesome.com/) for icons on Home Page.
 
 ## Final Thoughts
+It's been a great learning experience with a very steep but very enjoyable curve! Building this website has taught me many lessons which I'll carry forward on future builds and I'm very grateful for the experience.
+
+I'd like to thank:
+- My mentor Mo Shami for all of his help and guidance.
+- My loving family and girlfriend for their support and for putting up with me.
+- Monster Energy, Coca Cola, and coffee for the liquid inspiration and midnight energy.
+- Hans Zimmer and Ramin Djawadi for the late night soundtracks.
