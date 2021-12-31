@@ -37,8 +37,8 @@
     2. [CSS Validation](#css-validation)
     3. [Performance](#performance)
     4. [Accessibilty](#accessibility)
-    5. [Browser](#browser)
-    6. [Device](#device)
+    5. [Browsers](#browsers)
+    6. [Devices](#devices)
 7. [Unfixed Bugs](#unfixed-bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
@@ -262,3 +262,29 @@ Future ideas include:
 - Youtube clips of instructional techniques
 
 ## Testing
+
+Testing was conducted across six main categories consisting of:
+1. HTML Validation
+2. CSS Validation
+3. Performance
+4. Accessibility
+5. Browsers
+6. Devices
+
+Each of the following four pages were tested in the above categories:
+
+1. Home
+2. About Us
+3. Classes
+4. Contact Us
+
+### HTML Validation
+
+The HTML of each of the four pages war passed through the [W3C Validator Website](https://validator.w3.org/). Each page returned no errors.
+
+<details><summary>Home</summary><img src="./docs/validation/001_hmtl_validation_index_page.JPG"></details>
+<details><summary>About Us</summary><img src="./docs/validation/002_html_validation_about_us_page.JPG"></details>
+<details><summary>Classes</summary><img src="./docs/validation/003_html_validation_classes.JPG"></details>
+<details><summary>Contact Us</summary><img src="./docs/validation/004_html_validation_contact_us.JPG"></details>
+
+
