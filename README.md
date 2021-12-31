@@ -58,6 +58,8 @@
 ### Background
 Royal Canal BJJ is a fictious new Brazilian Jiu Jitsu gym which has opened in December 2021. It is located in the Royal Canal Park area of North Dublin, and from which it derives its name.
 
+The purpose of the website is to attract new members to the gym by detailing the gym's facilities and coaches expertise, while also providing important information to existing members.
+
 ## Objectives
 
 ### Site Visitors
