@@ -188,3 +188,24 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Again advertises that kids classes are coming soon.
 - Classes colour coordinated for easy visual differentiation.
 <img src="./docs/features/007_timetable.JPG">
+
+### Class And Pricing Information
+
+- Provides further information on classes related to Timetable.
+- Advises users of cost per month of training and method of payment.
+<img src="./docs/features/008_class_pricing_info.JPG">
+
+### Form
+
+- Form for joining Royal Canal BJJ.
+- Only basic information required to simplify and encourage new memberships.
+- Radio Buttons related to Benefits.
+- "Sign Me Up" button consistent with button on other pages in terms of colouring and hover colouring.
+- All aspects of form must be complete in order to be successfully submitted.
+<img src="./docs/features/009_form.JPG">
+
+### Contact And Public Transport Information
+
+### Map
+
+### Social Media
