@@ -158,7 +158,7 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 ### Navigation Menu
 
 - The Navigation Menu rests at the top of each webpage. 
-- By clicking on the Royal Canal BJJ lettering you are returned each time to the home screen.
+- By clicking on the Royal Canal BJJ logo you are returned each time to the home screen.
 - A black line appears under the wording of whichever page the user is currently on.
 - User Stories satisfied: Number 5, 14, 15
 <img src="./docs/features/001_nav_menu.JPG">
