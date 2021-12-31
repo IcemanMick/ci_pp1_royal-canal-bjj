@@ -12,9 +12,14 @@
     1. [Site Visitors](#site-visitors)
     2. [Site Owners](#site-owners)
 3. [User Stories](#user-stories)
-4. [Design](#design)
+4. [Website Design](#website-design)
     1. [Layout](#layout)
-    2. 
+    2. [Color](#color)
+    3. [Structure](#structure)
+    4. [Wireframes](#wireframes)
+    5. [Font](#font)
+    6. [Imagery](#imagery)
+
 
 
 > ## Introduction
@@ -79,3 +84,17 @@ The objectives of site owners are:
 13. As a site owner, I want to my website to be visually appealing and easy to navigate.
 14. As a site owner, I want new members to be able to easily join my gym.
 15. As a site owner, I want to update my current and new members with any new developments at the gym.
+
+## Website Design
+
+### Layout
+
+As with Jiu Jitsu, simplicity is usually the key to victory. With this in mind the layout of the website has been kept simple. This is to allow the user to have a positive experience without being overwhelmed by too many images or options to click on.
+
+The website consists of four pages:
+- Home Page
+- About Us
+- Classes
+- Contact Us
+
+Each page layout is similar, with a navigation menu at the top, an image below the navigation menu, and the subsequent information relating to that page name located below that image. All images and information are centered for a pleasant user experience, removing the need to search around the webpage for features. Users quickly become accustomed to information location.
