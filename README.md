@@ -349,7 +349,7 @@ This website was deployed using GitHub Pages. The steps for deploying it on GitH
 
 Please find a live link above the Table of Contents title and additionally here: (https://icemanmick.github.io/ci_pp1_royal-canal-bjj/)
 
-##Technology Used
+## Technology Used
 
 - Github
 - Gitpod
