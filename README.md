@@ -107,3 +107,15 @@ A white background with black text was chosen for the header, footer, and inform
 Each page layout is similar, with a navigation menu at the top, an image below the navigation menu, and teh subsequent information relating to that page name located below that image. All images and information are centered for a pleasant user experience, removing the need to search around the webpage for features. Users quickly become accustomed to information location.
 
 The Home Page, About Us Page, and Classes Page all feature a "Sign Up Today!!" button to drive users towards joining the gym. This button links to the internal webpage of "Contact Us" where the sign up form is located.
+
+### Wireframes
+
+Wireframes were created using the programme Balsamiq.
+
+<details><summary>Home Mobile</summary><img src="./docs/wireframes/008_mobile_home.png"></details>
+<details><summary>Home Tablet</summary><img src="./docs/wireframes/012_tablet_home.png"></details>
+<details><summary>Home Desktop</summary><img src="./docs/wireframes/016_desktop_home.png"></details>
+<details><summary>About Us Mobile</summary><img src="./docs/wireframes/009_mobile_about_us.png"></details>
+
+
+
