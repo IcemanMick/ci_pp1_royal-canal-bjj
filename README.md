@@ -348,3 +348,35 @@ This website was deployed using GitHub Pages. The steps for deploying it on GitH
 6. It may take a few minutes to load but after that the link will work and bring you to Royal Canal Bjj.
 
 Please find a live link above the Table of Contents title and additionally here: (https://icemanmick.github.io/ci_pp1_royal-canal-bjj/)
+
+##Technology Used
+
+- Github
+- Gitpod
+- Git
+- Google Chrome
+- Paint
+- MS Excel
+- Balsamiq
+- Snipping Tool
+- Internet Explorer
+- Safari
+- Font Awesome
+- Google Fonts
+- Google Reverse Image Search
+
+## Credits
+
+### Content
+
+### Media
+
+Sufficient stock images for Brazilian Jiu Jitsu were limited on [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/). For this reason images were sourced from Google Images and Google Reverse Image Search was used to credit the correct owners.
+
+- Home page image credited to [Checkmat BJJ](https://checkmatbjj.com/)
+- About us image credited to [Out Front Magazine](https://www.outfrontmagazine.com/change-life-jiu-jitsu-art-transformation/)
+-
+
+-Timetable image is credited to the developer.
+
+## Final Thoughts
