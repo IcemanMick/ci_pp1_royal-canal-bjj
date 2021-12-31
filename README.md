@@ -37,7 +37,7 @@ The objectives of the site visitors can be broken into two categories:
 - Who are the coaches and what is their experience?
 - How can I join?
 
-#### Regular Visitors want to know?
+#### Returning Visitors want to know?
 - Are there any new developments at the gym?
 - Does the gym have a social media presence and how can I find it?
 - My schedule has changed and are there alternative class times?
@@ -63,3 +63,12 @@ The objectives of site owners are:
 3. As a first time user, I want to know how much classes cost.
 4. As a first time user, I want to know how experienced the coaches are.
 5. As a first time user, I want to know how I can join this gym.
+
+### Returning Users
+
+6. As a returning user, I want to find out alternative class times in case I cannot attend my regular class.
+7. As a returning user, I want to know how I can contact the coaches outside of training times.
+8. As a returning user, I want to know if the gym has a social media presence and how I can find it.
+9. As a returning user, I want to know what public transport services are near the gym, in the event that my regular mode of transport is compromised or I am travelling from a different direction.
+10. As a returning user, I want to know of any upcoming news or changes with the gym.
+
