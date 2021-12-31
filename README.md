@@ -136,5 +136,13 @@ Wireframes were created using the programme Balsamiq.
 
 Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was used for the website. Alternative fallback font used was Sans-Serif.
 
+## Features
+
+### Navigation Menu
+
+- The Navigation Menu rests at the top of each webpage. 
+- By clicking on the Royal Canal BJJ lettering you are returned each time to the home screen.
+- A black line appears under the wording of whichever page the user is currently on.
+<img src="./docs/features/001_nav_menu.JPG">
 
 
