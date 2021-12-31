@@ -72,3 +72,10 @@ The objectives of site owners are:
 9. As a returning user, I want to know what public transport services are near the gym, in the event that my regular mode of transport is compromised or I am travelling from a different direction.
 10. As a returning user, I want to know of any upcoming news or changes with the gym.
 
+### Site Owners
+
+11. As a site owner, I want to provide new members with background information on my gym.
+12. As a site owner, I want to provide showcase my coaches BJJ credentials and experience.
+13. As a site owner, I want to my website to be visually appealing and easy to navigate.
+14. As a site owner, I want new members to be able to easily join my gym.
+15. As a site owner, I want to update my current and new members with any new developments at the gym.
