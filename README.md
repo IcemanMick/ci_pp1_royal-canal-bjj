@@ -168,6 +168,23 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 
 ### About Us
 
+- Provides background information on the gym.
+- Informs user that gym is for all skill levels.
+- Informs user that kids classes are coming soon and to "WATCH THIS SPACE"
+- Provides information on the culture of the gym.
+- Written in a light-hearted tone and encourages first time users to sign up.
+<img src= "./docs/features/005_about_us.JPG">
+
 ### Coaches
 
+- Provides background profiles on the coaches.
+- Images from Google Images used as stand in pictures for the fictious coaches.
+- Profiles written in a light-hearted tone.
+<img src="./docs/features/006_coaches.JPG">
+
 ### Timetable
+
+- Timetable prepared in MS Excel, and Snipping Tool used to convert to jpeg file.
+- Again advertises that kids classes are coming soon.
+- Classes colour coordinated for easy visual differentiation.
+<img src="./docs/features/007_timetable.JPG">
