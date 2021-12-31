@@ -47,12 +47,6 @@
     2. [Media](#media)
 11. [Final Thoughts](#final-thoughts)
 
-
-
-
-
-
-
 > ## Introduction
 
 ### Background
