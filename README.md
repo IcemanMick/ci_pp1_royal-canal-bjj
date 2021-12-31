@@ -337,6 +337,14 @@ The four webpages were tested on the following devices:
 - On smaller screen phone devices, the Contact Us button floats unintentionally underneath the rest of the menu options. 
 - While visually not desired, the menu buttons do not clash and full functionality is still retained.
 
+## Deployment
 
+This website was deployed using GitHub Pages. The steps for deploying it on GitHub Pages are:
+1. Select GitHub repository: IcemanMick/ci_pp1_royal-canal-bjj.
+2. Click on the "Settings" menu option on navigation bar provided.
+3. Scroll down through the settings to the GitHub Pages Section and click into it.
+4. From the source section Branch Menu, click on the drop down tab and select "Branch:Main".
+5. Once selected a url to the website will appear above the "Branch: Main" tab.
+6. It may take a few minutes to load but after that the link will work and bring you to Royal Canal Bjj.
 
-
+Please find a live link above the Table of Contents title and additionally here: (https://icemanmick.github.io/ci_pp1_royal-canal-bjj/)
