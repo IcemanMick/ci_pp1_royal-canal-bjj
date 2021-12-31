@@ -136,7 +136,7 @@ A green background, being the larger colour on the flag with a yellow sign up bu
 A white background with black text was chosen for the header, footer, and information boxes to allow for easy reading.
 
 ### Structure
-Each page layout is similar, with a navigation menu at the top, an image below the navigation menu, and teh subsequent information relating to that page name located below that image. All images and information are centered for a pleasant user experience, removing the need to search around the webpage for features. Users quickly become accustomed to information location.
+Each page layout is similar, with a navigation menu at the top, an image below the navigation menu, and the subsequent information relating to that page name located below that image. All images and information are centered for a pleasant user experience, removing the need to search around the webpage for features. Users quickly become accustomed to information location.
 
 The Home Page, About Us Page, and Classes Page all feature a "Sign Up Today!!" button to drive users towards joining the gym. This button links to the internal webpage of "Contact Us" where the sign up form is located.
 
