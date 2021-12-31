@@ -151,3 +151,17 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Icons were added from [Font Awesome](https://fontawesome.com/sessions/sign-in?next=%2Fkits%2F5a97decf8e%2Fuse) website to make it more user friendly.
 - Opportunity used on the home page for news of a "SHOP - COMING SOON!!!". Used as a selling point to show the entrepreneurship of the site owners and to gain the interest of site visitors. Shop will sell BJJ related equipment and apparel.
 <img src="./docs/features/002_facilities.JPG">
+
+### Benefits
+
+- A list of the benefits of doing Brazilian Jiu Jitsu, to entice new members and/or to remind members who may have not trained in a while.
+- Icons were added from [Font Awesome](https://fontawesome.com/sessions/sign-in?next=%2Fkits%2F5a97decf8e%2Fuse) website to make it more user friendly.
+<img src="./docs/features/003_benefits.JPG">
+
+### Sign Up Button
+
+### About Us
+
+### Coaches
+
+### Timetable
