@@ -331,6 +331,10 @@ The four webpages were tested on the following devices:
 - iPad
 - One Plus 7 mobile phone
 
+## Unfixed Bugs
+
+- On smaller screen phone devices, the Contact Us button floats unintentionally underneath the rest of the menu options. 
+- While visually not desired, the menu buttons do not clash and full functionality is still retained.
 
 
 
