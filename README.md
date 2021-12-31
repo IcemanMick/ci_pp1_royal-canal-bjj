@@ -314,7 +314,22 @@ The [WAVE Web Accesibility Evaluation Tool](https://wave.webaim.org/) was used t
 <details><summary>Classes</summary><img src="./docs/validation/015_wave_classes.JPG"></details>
 <details><summary>Contact Us</summary><img src ="./docs/validation/016_wave_contact_us.JPG"></details>
 
+### Browsers
 
+The four webpages were tested on the following browsers:
+- Google Chrome
+- Safari
+- Internet Explorer
+
+All pages and links worked.
+
+### Devices
+
+The four webpages were tested on the following devices:
+
+- Lenovo Z50
+- iPad
+- One Plus 7 mobile phone
 
 
 
