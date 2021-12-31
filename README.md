@@ -206,6 +206,12 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 
 ### Contact And Public Transport Information
 
+- Provides mobile number and email address for contacting the coaches.
+- As gym is fictious, so are the phone number and email address.
+- Provides address of gym and encourages drop in visits, highlighting the friendly nature of the gym.
+- Provides public transport information.
+<img src="./docs/features/010_contact_transport_info.JPG">
+
 ### Map
 
 ### Social Media
