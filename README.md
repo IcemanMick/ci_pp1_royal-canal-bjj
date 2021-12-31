@@ -131,7 +131,7 @@ The website consists of four pages:
 
 ### Colour Choices
 The main colour choices of the website are in reference to the Brazilian flag.
-A green background, being the larger colour on the flag with a yellow sign up button, and blue letter located in the sign up button.
+A green background, being the larger colour on the flag with a yellow sign up button, and blue lettering located in the sign up button.
 
 A white background with black text was chosen for the header, footer, and information boxes to allow for easy reading.
 
