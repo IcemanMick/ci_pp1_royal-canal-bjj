@@ -44,4 +44,22 @@ The objectives of the site visitors can be broken into two categories:
 - Can I contact the coaches outside of training times?
 - Are there any public transport options near the gym?
 
-###
+### Site Owners
+The objectives of site owners are:
+- To attract new members to the gym.
+- To inform potential new members of the facilities at the gym.
+- To inform potential new members of the benefits of starting Brazilian Jiu Jitsu.
+- To update new and current members on any new developments in the gym such e.g. shop opening soon and kids classes to be offered in the future.
+- To make new and current members aware of the gym's social media presence and grow it.
+- To provide information on contacting the gym.
+- To provide advise on public transport services near the gym.
+
+## User Stories
+
+### First Time Users
+
+1. As a first time user, I want to know where the BJJ gym is located.
+2. As a first time user, I want to know when classes take place.
+3. As a first time user, I want to know how much classes cost.
+4. As a first time user, I want to know how experienced the coaches are.
+5. As a first time user, I want to know how I can join this gym.
