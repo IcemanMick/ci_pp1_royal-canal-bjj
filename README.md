@@ -114,7 +114,8 @@ Wireframes were created using the programme Balsamiq.
 
 <details><summary>Home</summary><img src="./docs/wireframes/008_mobile_home.png"><img src="./docs/wireframes/012_tablet_home.png"><img src="./docs/wireframes/016_desktop_home.png"></details>
 <details><summary>About Us</summary><img src="./docs/wireframes/009_mobile_about_us.png"><img src="./docs/wireframes/013_tablet_about_us.png"><img src="./docs/wireframes/017_desktop_about.png"></details>
-
+<details><summary>Classes</summary><img src="./docs/wireframes/010_mobile_classes.png"><img src="./docs/wireframes/014_tablet_classes.png"><img src="./docs/wireframes/018_desktop_classes.png"></details>
+<details><summary>Contact Us</summary><img src="./docs/wireframes/011_mobile_contact_us.png"><img src="./docs/wireframes/015_tablet_contact_us.png"><img src="./docs/wireframes/019_desktop_contact_us.png"></details>
 
 
 
