@@ -31,6 +31,7 @@
     10. [Contact and Public Transport Information](#contact-and-public-transport-information)
     11. [Map](#map)
     12. [Social Media](#social-media)
+    13. [Future Ideas](#future-ideas)
 
 
 
@@ -223,3 +224,12 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - As Royal Canal BJJ is a fictious club, all links bring user to the external home page sites.
 - Links are to Instagram, Facebook, Youtube, and Twitter.
 <img src="./docs/features/012_social_media.JPG">
+
+### Future Ideas
+
+Future ideas include:
+- Interactive Shop
+- Kids Classes Timetable
+- Gallery of images
+- Dedicated news section
+- Youtube clips of instructional techniques
