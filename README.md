@@ -296,3 +296,13 @@ The HTML of each of the four pages was passed through the [W3C CSS Validator Web
 <details><summary>Classes</summary><img src="./docs/validation/007_css_validation_classes.JPG"></details>
 <details><summary>Contact Us</summary><img src="./docs/validation/008_css_validation_contact_us.JPG"></details>
 
+### Performance
+
+The Lighthouse feature in Google Chrome Developer Tools was used to test the performance of each webpage. 
+
+<details><summary>Home</summary><img src="./docs/validation/009_lighthouse_index.JPG"></details>
+<details><summary>About Us</summary><img src="./docs/validation/010_lighthouse_about_us.JPG"></details>
+<details><summary>Classes</summary><img src="./docs/validation/011_lighthouse_classes.JPG"></details>
+<details><summary>Contact Us</summary><img src="./docs/validation/012_lighthouse_contact_us.JPG"></details>
+
+
