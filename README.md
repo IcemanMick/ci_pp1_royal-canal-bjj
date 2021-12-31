@@ -41,10 +41,11 @@
     6. [Devices](#devices)
 7. [Unfixed Bugs](#unfixed-bugs)
 8. [Deployment](#deployment)
-9. [Credits](#credits)
-    1. [Content] (#content)
-    2. [Media] (#media)
-10. [Final Thoughts](#final-thoughts)
+9. [Technology Used](#technology-used)
+10. [Credits](#credits)
+    1. [Content](#content)
+    2. [Media](#media)
+11. [Final Thoughts](#final-thoughts)
 
 
 
