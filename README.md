@@ -310,6 +310,10 @@ The Lighthouse feature in Google Chrome Developer Tools was used to test the per
 The [WAVE Web Accesibility Evaluation Tool](https://wave.webaim.org/) was used to test the accessibility of the website. No errors were returned on any of the four pages.
 
 <details><summary>Home</summary><img src="./docs/validation/013_wave_index.JPG"></details>
+<details><summary>About Us</summary><img src="./docs/validation/014_wave_about_us.JPG"></details>
+<details><summary>Classes</summary><img src="./docs/validation/015_wave_classes.JPG"></details>
+<details><summary>Contact Us</summary><img src ="./docs/validation/016_wave_contact_us.JPG"></details>
+
 
 
 
