@@ -375,8 +375,10 @@ Sufficient stock images for Brazilian Jiu Jitsu were limited on [Pexels](https:/
 
 - Home page image credited to [Checkmat BJJ](https://checkmatbjj.com/)
 - About us image credited to [Out Front Magazine](https://www.outfrontmagazine.com/change-life-jiu-jitsu-art-transformation/)
--
-
--Timetable image is credited to the developer.
+- Male coach on About Us page is credited as being Lukasz Kowlski of [D15 BJJ Academy](https://www.d15academy.com/carlson-gracie-team.html)
+- Female coach on About Us page is credited as being [Ana Yagües](https://www.beltchecker.com/profile.php?id=5802)
+- Image on Classes page is credited to [Vagner Rocha Martial Arts](https://www.vagnerrochamartialarts.com/mma-near-me/)
+-Contact Us page image is credited to [Eastern Europe BJJ](https://www.bjjee.com/articles/start-training-bjj-5-things-will-happen/)
+- Timetable image is credited to the developer.
 
 ## Final Thoughts
