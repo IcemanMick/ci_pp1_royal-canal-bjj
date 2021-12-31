@@ -84,22 +84,23 @@ The objectives of site owners are:
 3. As a first time user, I want to know how much classes cost.
 4. As a first time user, I want to know how experienced the coaches are.
 5. As a first time user, I want to know how I can join this gym.
+6. As a first time user, I want to know what the benefits are of learning BJJ.
 
 ### Returning Users
 
-6. As a returning user, I want to find out alternative class times in case I cannot attend my regular class.
-7. As a returning user, I want to know how I can contact the coaches outside of training times.
-8. As a returning user, I want to know if the gym has a social media presence and how I can find it.
-9. As a returning user, I want to know what public transport services are near the gym, in the event that my regular mode of transport is compromised or I am travelling from a different direction.
-10. As a returning user, I want to know of any upcoming news or changes with the gym.
+7. As a returning user, I want to find out alternative class times in case I cannot attend my regular class.
+8. As a returning user, I want to know how I can contact the coaches outside of training times.
+9. As a returning user, I want to know if the gym has a social media presence and how I can find it.
+10. As a returning user, I want to know what public transport services are near the gym, in the event that my regular mode of transport is compromised or I am travelling from a different direction.
+11. As a returning user, I want to know of any upcoming news or changes with the gym.
 
 ### Site Owners
 
-11. As a site owner, I want to provide new members with background information on my gym.
-12. As a site owner, I want to provide showcase my coaches BJJ credentials and experience.
-13. As a site owner, I want to my website to be visually appealing and easy to navigate.
-14. As a site owner, I want new members to be able to easily join my gym.
-15. As a site owner, I want to update my current and new members with any new developments at the gym.
+12. As a site owner, I want to provide new members with background information on my gym.
+13. As a site owner, I want to provide showcase my coaches BJJ credentials and experience.
+14. As a site owner, I want to my website to be visually appealing and easy to navigate.
+15. As a site owner, I want new members to be able to easily join my gym.
+16. As a site owner, I want to update my current and new members with any new developments at the gym.
 
 ## Website Design
 
@@ -144,6 +145,7 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - The Navigation Menu rests at the top of each webpage. 
 - By clicking on the Royal Canal BJJ lettering you are returned each time to the home screen.
 - A black line appears under the wording of whichever page the user is currently on.
+- User Stories satisfied: Number 5, 14, 15
 <img src="./docs/features/001_nav_menu.JPG">
 
 ### Facilities
@@ -151,12 +153,14 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - A list of the gyms facilities are present on the Home page.
 - Icons were added from [Font Awesome](https://fontawesome.com/sessions/sign-in?next=%2Fkits%2F5a97decf8e%2Fuse) website to make it more user friendly.
 - Opportunity used on the home page for news of a "SHOP - COMING SOON!!!". Used as a selling point to show the entrepreneurship of the site owners and to gain the interest of site visitors. Shop will sell BJJ related equipment and apparel.
+- User Stories satisfied: Number 11, 12, 16
 <img src="./docs/features/002_facilities.JPG">
 
 ### Benefits
 
 - A list of the benefits of doing Brazilian Jiu Jitsu, to entice new members and/or to remind members who may have not trained in a while.
 - Icons were added from [Font Awesome](https://fontawesome.com/sessions/sign-in?next=%2Fkits%2F5a97decf8e%2Fuse) website to make it more user friendly.
+- User Stories satisfied: Number 6
 <img src="./docs/features/003_benefits.JPG">
 
 ### Sign Up Button
@@ -164,7 +168,8 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Encourages new members to sign up and join the gym.
 - Present at the bottom of the Home page, About Us Page, and Classes Page, to consistingly remind a first time user to sign up.
 - Background colour of button turns white when hovered over.
--Yellow and blue colours, surrounded by green background which are part of the Brazilian national flag.
+- Yellow and blue colours, surrounded by green background which are part of the Brazilian national flag.
+- User Stories satisfied:  Number 5, 15
 <img src="./docs/features/004_signup.JPG">
 
 ### About Us
@@ -174,6 +179,7 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Informs user that kids classes are coming soon and to "WATCH THIS SPACE"
 - Provides information on the culture of the gym.
 - Written in a light-hearted tone and encourages first time users to sign up.
+- User Stories satisfied: Number 11, 12, 16
 <img src= "./docs/features/005_about_us.JPG">
 
 ### Coaches
@@ -181,6 +187,7 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Provides background profiles on the coaches.
 - Images from Google Images used as stand in pictures for the fictious coaches.
 - Profiles written in a light-hearted tone.
+- User Stories satisfied: Number 4, 13
 <img src="./docs/features/006_coaches.JPG">
 
 ### Timetable
@@ -188,12 +195,14 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Timetable prepared in MS Excel, and Snipping Tool used to convert to jpeg file.
 - Again advertises that kids classes are coming soon.
 - Classes colour coordinated for easy visual differentiation.
+ - User Stories satisfied: Number 2, 7
 <img src="./docs/features/007_timetable.JPG">
 
 ### Class And Pricing Information
 
 - Provides further information on classes related to Timetable.
 - Advises users of cost per month of training and method of payment.
+- User stories satisfied: Number 3, 12
 <img src="./docs/features/008_class_pricing_info.JPG">
 
 ### Form
@@ -203,6 +212,7 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Radio Buttons related to Benefits.
 - "Sign Me Up" button consistent with button on other pages in terms of colouring and hover colouring.
 - All aspects of form must be complete in order to be successfully submitted.
+- User Stories satisfied: Number 5, 15
 <img src="./docs/features/009_form.JPG">
 
 ### Contact And Public Transport Information
@@ -211,11 +221,13 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - As gym is fictious, so are the phone number and email address.
 - Provides address of gym and encourages drop in visits, highlighting the friendly nature of the gym.
 - Provides public transport information.
+- User Stories satisfied: Number 1, 8, 10
 <img src="./docs/features/010_contact_transport_info.JPG">
 
 ### Map
 
 -Interactive [Google Maps](https://www.google.com/maps/place/Pelletstown+Ave,+Ashtown,+Dublin/@53.377062,-6.321312,16z/data=!4m5!3m4!1s0x48670d97922217b1:0x5fb8d7b1313725!8m2!3d53.3766845!4d-6.3184163?hl=en) set to the Royal Canal Park area.
+- User Stories satisfied: Number 1, 10
 <img src="./docs/features/011_map.JPG">
 
 ### Social Media
@@ -223,6 +235,7 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 - Social Media links are present on all page footers.
 - As Royal Canal BJJ is a fictious club, all links bring user to the external home page sites.
 - Links are to Instagram, Facebook, Youtube, and Twitter.
+- User Stories satisfied: Number 9
 <img src="./docs/features/012_social_media.JPG">
 
 ### Future Ideas
