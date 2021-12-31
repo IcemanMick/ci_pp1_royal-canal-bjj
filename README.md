@@ -160,6 +160,12 @@ Lora from [Google Fonts](https://fonts.google.com/specimen/Lora?query=lora) was 
 
 ### Sign Up Button
 
+- Encourages new members to sign up and join the gym.
+- Present at the bottom of the Home page, About Us Page, and Classes Page, to consistingly remind a first time user to sign up.
+- Background colour of button turns white when hovered over.
+-Yellow and blue colours, surrounded by green background which are part of the Brazilian national flag.
+<img src="./docs/features/004_signup.JPG">
+
 ### About Us
 
 ### Coaches
