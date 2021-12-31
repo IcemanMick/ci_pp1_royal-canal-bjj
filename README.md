@@ -32,6 +32,20 @@
     11. [Map](#map)
     12. [Social Media](#social-media)
     13. [Future Ideas](#future-ideas)
+6. [Testing](#testing)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
+    3. [Performance](#performance)
+    4. [Accessibilty](#accessibility)
+    5. [Browser](#browser)
+    6. [Device](#device)
+7. [Unfixed Bugs](#unfixed-bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+    1. [Content] (#content)
+    2. [Media] (#media)
+10. [Final Thoughts](#final-thoughts)
+
 
 
 
@@ -246,3 +260,5 @@ Future ideas include:
 - Gallery of images
 - Dedicated news section
 - Youtube clips of instructional techniques
+
+## Testing
