@@ -372,6 +372,7 @@ Please find a live link above the Table of Contents title and additionally here:
 - Header HTML and CSS, footer HTML and CSS, form HTML and CSS, and div code HTML and CSS credited in respective comments of HTML pages and CSS page of this website. Credited to [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/) by [Code Institute](https://codeinstitute.net/ie/5-day-coding-challenge/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=539453915484&hsa_src=g&hsa_tgt=aud-315575994125:kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAzrWOBhBjEiwAq85QZ1su4HjA1qv0Srjo_pu7HKmz-zhcfEWg-pS22i81slyYt8E8j_I6bxoCt3sQAvD_BwE) 
 - Help with README.md file from [GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)   
 - Help from Youtube channel of [Geek Tutorials Insert a Google Map to Your Website](https://www.youtube.com/watch?v=KIC0OK9nKXY&ab_channel=GeekTutorials) 
+- Credit to [w3schools](https://www.w3schools.com/howto/howto_css_image_center.asp) with help centering CSS images
 
 ### Media
 
@@ -385,6 +386,5 @@ Sufficient stock images for Brazilian Jiu Jitsu were limited on [Pexels](https:/
 - Contact Us page image is credited to [Eastern Europe BJJ](https://www.bjjee.com/articles/start-training-bjj-5-things-will-happen/)
 - Timetable image is credited to the developer.
 - Credit to [Font Awesome](https://fontawesome.com/) for icons on Home Page.
-- Credit to [w3schools](https://www.w3schools.com/howto/howto_css_image_center.asp) with help centering CSS images
 
 ## Final Thoughts
