@@ -280,11 +280,19 @@ Each of the following four pages were tested in the above categories:
 
 ### HTML Validation
 
-The HTML of each of the four pages war passed through the [W3C Validator Website](https://validator.w3.org/). Each page returned no errors.
+The HTML of each of the four pages was passed through the [W3C HTML Validator Website](https://validator.w3.org/). Each page returned no errors.
 
 <details><summary>Home</summary><img src="./docs/validation/001_hmtl_validation_index_page.JPG"></details>
 <details><summary>About Us</summary><img src="./docs/validation/002_html_validation_about_us_page.JPG"></details>
 <details><summary>Classes</summary><img src="./docs/validation/003_html_validation_classes.JPG"></details>
 <details><summary>Contact Us</summary><img src="./docs/validation/004_html_validation_contact_us.JPG"></details>
 
+### CSS Validation
+
+The HTML of each of the four pages was passed through the [W3C CSS Validator Website](https://jigsaw.w3.org/css-validator/) also known as "Jigsaw". Each page returned no errors.
+
+<details><summary>Home</summary><img src="./docs/validation/005_css_validation_index_page.JPG"></details>
+<details><summary>About Us</summary><img src="./docs/validation/006_css_validation_about_us_page.JPG"></details>
+<details><summary>Classes</summary><img src="./docs/validation/007_css_validation_classes.JPG"></details>
+<details><summary>Contact Us</summary><img src="./docs/validation/008_css_validation_contact_us.JPG"></details>
 
