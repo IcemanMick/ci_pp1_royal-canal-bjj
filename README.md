@@ -14,7 +14,7 @@
 3. [User Stories](#user-stories)
 4. [Website Design](#website-design)
     1. [Layout](#layout)
-    2. [Color](#color)
+    2. [Colour Choices](#colour-choices)
     3. [Structure](#structure)
     4. [Wireframes](#wireframes)
     5. [Font](#font)
@@ -98,3 +98,9 @@ The website consists of four pages:
 - Contact Us
 
 Each page layout is similar, with a navigation menu at the top, an image below the navigation menu, and the subsequent information relating to that page name located below that image. All images and information are centered for a pleasant user experience, removing the need to search around the webpage for features. Users quickly become accustomed to information location.
+
+### Colour Choices
+The main colour choices of the website are in reference to the Brazilian flag.
+A green background, being the larger colour on the flag with a yellow sign up button, and blue letter located in the sign up button.
+
+A white background with black text was chosen for the header, footer, and information boxes to allow for easy reading.
